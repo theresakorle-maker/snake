@@ -1,3 +1,4 @@
 # snake
 snake game
-print(1)
+in Python 3 
+startbefehl: Python3 "/workspaces/snake/x"
